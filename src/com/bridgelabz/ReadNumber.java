@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ReadNumber {
 
-    static void readNumber(int a) {
+    static void readNumber( int a ) {
         if (a == 1) {
             System.out.println("Unit");
         } else if (a == 10) {
