@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class SumOfnNaturalNumberWithWhileLoop {
 
-    static void sum(int number){
+    static void sum( int number ){
         int i = 1;
         int sum = 0;
         while(i<=number){
