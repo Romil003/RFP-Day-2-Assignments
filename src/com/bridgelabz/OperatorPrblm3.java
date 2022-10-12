@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class OperatorPrblm3 {
 
-    static void findingRoots(int a,int b,int c){
+    static void findingRoots( int a,int b,int c ){
         int result = (int)Math.floor(Math.pow(b,2) - 4*a*c);
         int root1 = (int)(-b + Math.sqrt(result))/2*a;
         int root2 = (int)(-b - Math.sqrt(result))/2*a;
