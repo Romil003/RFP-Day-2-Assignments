@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class CheckingMonthWithSwitchCase {
 
-    static void checkMonth(int a){
+    static void checkMonth (int a){
         switch (a) {
             case 1 -> System.out.println(a + " is a January");
             case 2 -> System.out.println(a + " is a February");
