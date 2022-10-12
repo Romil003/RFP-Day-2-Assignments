@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ReverseNumberWithForLoop {
 
-    static void reversingNumber(int num){
+    static void reversingNumber( int num ){
             int b = num;
             int remainder = 0;
             int reverseNumber = 0;
