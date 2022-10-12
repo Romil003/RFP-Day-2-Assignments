@@ -3,7 +3,7 @@ package com.bridgelabz;
 import java.util.Scanner;
 
 public class PalindromeNumberWithForLoop {
-    static void palindromeNumber(int num){
+    static void palindromeNumber( int num ){
         int b = num;
         int remainder = 0;
         int reverseNumber = 0;
