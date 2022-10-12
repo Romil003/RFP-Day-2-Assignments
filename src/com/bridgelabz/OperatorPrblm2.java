@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class OperatorPrblm2 {
 
-    static boolean checkMonthAndDate(int a , int b){
+    static boolean checkMonthAndDate( int a , int b ){
         int sum = 59;
         
         if (a == 3){
