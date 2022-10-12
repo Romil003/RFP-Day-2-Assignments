@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ReadSingleDigitNumber {
 
-    static void readNumber(int a){
+    static void readNumber( int a ){
         if (a == 0){
             System.out.println("Zero");
         } else if (a == 1) {
