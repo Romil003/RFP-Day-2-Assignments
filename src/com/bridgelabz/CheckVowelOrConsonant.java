@@ -3,7 +3,7 @@ package com.bridgelabz;
 import java.util.Scanner;
 
 public class CheckVowelOrConsonant {
-    static void checkVowel(char ch){
+    static void checkVowel ( char ch ){
         switch (ch) {
             case 'a' , 'e' , 'o' , 'u' , 'i' -> System.out.println(ch + " is a vowel");
             case 'A' , 'E' , 'O' , 'U' , 'I' -> System.out.println(ch + " is a vowel");
