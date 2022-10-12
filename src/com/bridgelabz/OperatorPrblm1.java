@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class OperatorPrblm1 {
 
-    static void checkMaxAndMin(int num1 , int num2 , int num3){
+    static void checkMaxAndMin( int num1 , int num2 , int num3 ){
          int result1 = num1+num2*num3;
          int result2 = num3+num1/num2;
          int result3 = num1%num2+num3;
